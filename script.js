@@ -49,12 +49,32 @@ $(function()
         picture: "Background/fgfgfgfg.jpg"
    
     },
+     {
+        artist: "Thanh Hưng",
+        name: "Đúng Người Đúng Thời Điểm",
+        url: "Musics/Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+    {
+        artist: "Thanh Hưng",
+        name: "Yêu Nhiều Ghen Nhiều",
+        url: "Musics/Yeu-Nhieu-Ghen-Nhieu-Thanh-Hung.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+     {
+        artist: "Thanh Hưng",
+        name: "You Are My Crush",
+        url: "Musics/You-Are-My-Crush-Quan-A-P-Nguyen-Jenda.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
 
 
-    Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung
-    Yeu-Nhieu-Ghen-Nhieu-Thanh-Hung
-    Canh-Hong-Phai-Tran-Thanh
-    You-Are-My-Crush-Quan-A-P-Nguyen-Jenda
+
+ 
+    
     ];
 
     
