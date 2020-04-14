@@ -7,6 +7,7 @@ body
 {
     font-family: Helvetica, Arial;
     margin: 0;
+    padding: 0;
     background-color: #ffeff5;
 }
 
@@ -24,6 +25,7 @@ body
 #bg-artwork
 {
     position: fixed;
+    display: flex;
     top: -30px;
     right: -30px;
     bottom: -30px;
@@ -40,6 +42,8 @@ body
 #bg-layer
 {
     position: fixed;
+    display: flex;
+
     top: 0;
     right: 0;
     bottom: 0;
