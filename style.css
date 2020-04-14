@@ -31,7 +31,7 @@ body
     background-image: url("./Background/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 50%;
+    /*background-position: 50%;*/
     filter: blur(4px);
     -webkit-filter: blur(4px);
     z-index: 1;

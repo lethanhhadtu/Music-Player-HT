@@ -33,7 +33,28 @@ $(function()
         url: "Musics/Thi-Thoi-Reddy.mp3",
         picture: "Background/fgfgfgfg.jpg"
    
-    }
+    },
+
+    {
+        artist: "Khùng",
+        name: "Anh Sẽ Luôn Thật Gần",
+        url: "Musics/Anh-Se-Luon-That-Gan-KHUNG.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+     {
+        artist: "Đức Phúc",
+        name: "Hơn Cả Yêu",
+        url: "Musics/Hon-Ca-Yeu-Duc-Phuc.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+
+
+    Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung
+    Yeu-Nhieu-Ghen-Nhieu-Thanh-Hung
+    Canh-Hong-Phai-Tran-Thanh
+    You-Are-My-Crush-Quan-A-P-Nguyen-Jenda
     ];
 
     
