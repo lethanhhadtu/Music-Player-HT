@@ -25,13 +25,13 @@ $(function()
 		artist: "Dig Didzay",
 		name: "Nếu Anh Đi (Cover)",
 		url: "Musics/NeuAnhDi.mp3",
-		picture: "Background/bg1ggg.jpg"
+		picture: "Background/fgfgfgfg.jpg"
 	},
     {
         artist: "Reddy",
         name: "Thì Thôi",
         url: "Musics/Thi-Thoi-Reddy.mp3",
-        picture: "Background/bg1ggg.jpg"
+        picture: "Background/fgfgfgfg.jpg"
    
     }
     ];
