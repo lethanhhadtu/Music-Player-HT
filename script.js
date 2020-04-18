@@ -42,14 +42,14 @@ $(function()
         picture: "Background/fgfgfgfg.jpg"
    
     },
-     {
+    {
         artist: "Đức Phúc",
         name: "Hơn Cả Yêu",
         url: "Musics/Hon-Ca-Yeu-Duc-Phuc.mp3",
         picture: "Background/fgfgfgfg.jpg"
    
     },
-     {
+    {
         artist: "Thanh Hưng",
         name: "Đúng Người Đúng Thời Điểm",
         url: "Musics/Dung-Nguoi-Dung-Thoi-Diem-Thanh-Hung.mp3",
@@ -63,13 +63,42 @@ $(function()
         picture: "Background/fgfgfgfg.jpg"
    
     },
-     {
+    {
         artist: "Thanh Hưng",
         name: "You Are My Crush",
         url: "Musics/You-Are-My-Crush-Quan-A-P-Nguyen-Jenda.mp3",
         picture: "Background/fgfgfgfg.jpg"
    
     },
+    {
+        artist: "Anh Khang",
+        name: "Anh Mơ",
+        url: "Musics/Anh-Mo-Anh-Khang.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+    {
+        artist: "Thanh Hà",
+        name: "Thế Là Hết",
+        url: "Musics/The-La-Het.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+    {
+        artist: "Đoàn Hiếu",
+        name: "Tình Sầu Thiên Thu Muôn Lối",
+        url: "Musics/TinhSauThienThuMuonLoi-DoanHieu.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+    {
+        artist: "Reddy",
+        name: "Vài Giây Nữa Thôi",
+        url: "Musics/Vai-Giay-Nua-Thoi-Reddy.mp3",
+        picture: "Background/fgfgfgfg.jpg"
+   
+    },
+
 
 
 
